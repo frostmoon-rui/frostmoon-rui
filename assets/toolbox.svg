@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="760" height="88" viewBox="0 0 760 88" role="img" aria-labelledby="title">
+  <title id="title">Toolbox: C / C++, MATLAB, Python, LaTeX, SQLite, Git</title>
+  <rect x="1" y="1" width="758" height="86" rx="16" fill="#1c2237" stroke="#45405f"/>
+  <g font-family="Segoe UI,Arial,sans-serif" font-size="13" text-anchor="middle">
+    <g transform="translate(66 0)"><rect x="-22" y="13" width="44" height="32" rx="9" fill="#4a6299"/><text y="35" fill="#ecf1ff" font-weight="700">C++</text><text y="68" fill="#ddd8ec">C / C++</text></g>
+    <g transform="translate(191 0)"><rect x="-22" y="13" width="44" height="32" rx="9" fill="#a7654c"/><text y="35" fill="#fff0cd" font-weight="700">M</text><text y="68" fill="#ddd8ec">MATLAB</text></g>
+    <g transform="translate(316 0)"><rect x="-22" y="13" width="44" height="32" rx="9" fill="#365b81"/><text y="35" fill="#ffdf7e" font-weight="700">Py</text><text y="68" fill="#ddd8ec">Python</text></g>
+    <g transform="translate(441 0)"><rect x="-22" y="13" width="44" height="32" rx="9" fill="#4e7773"/><text y="35" fill="#e0fff5" font-size="11" font-weight="700">TeX</text><text y="68" fill="#ddd8ec">LaTeX</text></g>
+    <g transform="translate(566 0)"><rect x="-22" y="13" width="44" height="32" rx="9" fill="#376b83"/><text y="35" fill="#d9f1ff" font-weight="700">DB</text><text y="68" fill="#ddd8ec">SQLite</text></g>
+    <g transform="translate(691 0)"><rect x="-22" y="13" width="44" height="32" rx="9" fill="#b76c62"/><text y="35" fill="#fff1e7" font-weight="700">git</text><text y="68" fill="#ddd8ec">Git</text></g>
+  </g>
+</svg>

@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="300" viewBox="0 0 900 300" role="img" aria-labelledby="title desc">
+  <title id="title">Hi, I'm frostmoon-rui</title>
+  <desc id="desc">A cat under a moonlit, starry sky in deep blue and purple. Ideas into code, a cat by my side.</desc>
+  <defs>
+    <linearGradient id="sky" x2="1" y2="1"><stop stop-color="#151c3c"/><stop offset=".55" stop-color="#343159"/><stop offset="1" stop-color="#745070"/></linearGradient>
+    <linearGradient id="moon" x2="1" y2="1"><stop stop-color="#fff3d9"/><stop offset="1" stop-color="#c6c4ff"/></linearGradient>
+  </defs>
+  <rect width="900" height="300" rx="22" fill="url(#sky)"/>
+  <g fill="#e9ddff" opacity=".75"><circle cx="60" cy="55" r="2"/><circle cx="180" cy="38" r="1.4"/><circle cx="353" cy="60" r="1.7"/><circle cx="570" cy="39" r="2"/><circle cx="634" cy="146" r="1.6"/><circle cx="845" cy="173" r="2"/><circle cx="506" cy="199" r="1.5"/><circle cx="260" cy="224" r="1.7"/></g>
+  <path d="M605 67v12m-6-6h12M106 170v10m-5-5h10M827 46v12m-6-6h12" stroke="#d5c4f4" stroke-width="1.5" stroke-linecap="round"/>
+  <circle cx="745" cy="97" r="54" fill="url(#moon)"/>
+  <circle cx="765" cy="78" r="45" fill="#4a3c62"/>
+  <path d="M0 252Q155 211 326 258T657 251T900 239V300H0Z" fill="#29253f" opacity=".5"/>
+  <path d="M0 281Q200 243 406 282T900 265V300H0Z" fill="#181f36" opacity=".75"/>
+  <g font-family="Segoe UI,Arial,sans-serif">
+    <text x="56" y="79" fill="#c7bde7" font-size="12" letter-spacing="4">A LITTLE CODE, A LITTLE MOONLIGHT</text>
+    <text x="54" y="140" fill="#fcf6ff" font-size="46" font-weight="700">Hi, I'm frostmoon-rui.</text>
+    <text x="57" y="181" fill="#e5d8ee" font-size="17">Ideas into code, a cat by my side.</text>
+    <text x="57" y="220" fill="#bdb5d3" font-size="12" letter-spacing="2">PYTHON / BOTS / SMALL EVERYDAY TOOLS</text>
+  </g>
+  <g transform="translate(713 210)" fill="#191e34">
+    <path d="M0 54V15L14 0l11 13h16L55 0l10 20v34Z"/>
+    <path d="M51 50c41 1 48-18 33-23-12-4-17 9-7 11" fill="none" stroke="#191e34" stroke-width="9" stroke-linecap="round"/>
+    <path d="M15 29h4m24 0h4" fill="none" stroke="#e0c2e6" stroke-width="2" stroke-linecap="round"/>
+  </g>
+</svg>
