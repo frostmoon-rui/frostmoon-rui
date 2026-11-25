@@ -40,7 +40,7 @@
 | Project | What is available |
 | --- | --- |
 | [Lucky Cat](https://github.com/frostmoon-rui/gmn_bot) | QQ weather, maps, research, music requests and local vocal separation. |
-| [Astrofall Observatory](https://github.com/frostmoon-rui/astrofall-observatory) | Landing-impact puzzles through 25 rooms, with two endings. |
+| [Astrofall Observatory](https://github.com/frostmoon-rui/astrofall-observatory) | An 80-room puzzle platformer with two endings, online co-op, and an endless runner. |
 | [Spleeter Local](https://github.com/frostmoon-rui/spleeter-local) · [Magic Eraser](https://github.com/frostmoon-rui/magic-eraser) | Local vocal separation and mask-based image repair. |
 | [GPS location assistant](https://github.com/frostmoon-rui/GPS-Elderly-Anti-Lost) · [Electrostatic Detection](https://github.com/frostmoon-rui/electrostatic-detection) · [Fire Rescue Vehicle](https://github.com/frostmoon-rui/fire-rescue-vehicle) | Historical App Inventor, Arduino/Mixly and ESP32-CAM project sources. |
 | [Active suspension research](https://frostmoonrui.com/en/notes/active-suspension-research/) | Public note on modeling, nominal backstepping and planned reinforcement-learning work. |
